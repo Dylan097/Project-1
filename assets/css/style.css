@@ -1,5 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat:wght@700&family=Syne+Mono&display=swap');
 
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
 body {
     font-family: "Architects Daughter", sans-serif;
+}
+
+header > h1 {
+    font-family: "Syne Mono", sans-serif;
+}
+
+header > p {
+    font-family: Caveat, sans-serif;
+}
+
+header {
+    text-align: center;
 }
