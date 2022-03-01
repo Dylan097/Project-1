@@ -7,16 +7,36 @@
 }
 body {
     font-family: "Architects Daughter", sans-serif;
+    color: grey;
 }
 
-header > h1 {
+/* headers */
+
+h1, h2 {
     font-family: "Syne Mono", sans-serif;
+    font-size: 300%;
+    letter-spacing: 5px;
 }
 
-header > p {
+header p {
     font-family: Caveat, sans-serif;
 }
 
 header {
     text-align: center;
+}
+
+/* navigation */
+
+header nav {
+    text-align: right;
+}
+
+header li {
+    list-style-type: none;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
 }
