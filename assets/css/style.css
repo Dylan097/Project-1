@@ -53,3 +53,35 @@ header {
 .active {
     border-bottom: 1px solid black;
 }
+
+/* Cover image */
+
+#face-off-image {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text h2{
+    font-size: 200%;
+}
+
+#two-paintballers {
+    height: 600px;
+    width: 100%;
+    background: url(../images/paintballers-face-off.jpg) no-repeat center center;
+}
+
+#cover-text {
+    height: 120px;
+    text-transform: uppercase;
+    width: 270px;
+    padding: 10px;
+
+    position: absolute;
+
+    bottom: 10px;
+    right: 140px;
+    background-color: rgba(500, 100, 100, .5);
+}
