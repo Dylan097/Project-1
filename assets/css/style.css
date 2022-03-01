@@ -18,6 +18,11 @@ h1, h2 {
     letter-spacing: 5px;
 }
 
+#logo {
+    text-decoration: none;
+    color: black;
+}
+
 header p {
     font-family: Caveat, sans-serif;
 }
@@ -26,15 +31,25 @@ header {
     text-align: center;
 }
 
+
 /* navigation */
 
-header li {
+#links li {
     list-style-type: none;
     float: right;
     margin-right: 10px;
 }
 
-header a {
+#links a {
     text-decoration: none;
     color: black;
+}
+
+#links a:hover {
+    background-color: black;
+    color: white;
+}
+
+.active {
+    border-bottom: 1px solid black;
 }
