@@ -28,12 +28,10 @@ header {
 
 /* navigation */
 
-header nav {
-    text-align: right;
-}
-
 header li {
     list-style-type: none;
+    float: right;
+    margin-right: 10px;
 }
 
 header a {
