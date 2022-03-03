@@ -97,14 +97,20 @@ header {
 
 /* About Us section */
 
+#about {
+    padding: 5px;
+    height: 350px;
+    width: 100%;
+}
+
 #who {
     width: 45%;
-    padding: 5px;
+    padding: 20px;
     float: left;
 }
 
 #where {
     width: 45%;
-    padding: 5px;
+    padding: 20px;
     float: right;
 }
