@@ -116,3 +116,18 @@ header {
     padding: 20px;
     float: right;
 }
+
+/* contest section */
+
+.contest {
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#contest-pic {
+    height: 250px;
+    width: 100%;
+    background: url(../images/group-of-painballers.jpeg) no-repeat center center;      
+}
