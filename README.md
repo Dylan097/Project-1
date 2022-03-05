@@ -19,4 +19,17 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 ### media
 
-- The photo used in the main page are from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
+- The photo used in the main page is from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
+
+- The photo used in the background for the contest info is from [this webpage](https://www.oakerwoodleisure.co.uk/app/uploads/2021/07/2-1800x750.jpeg)
+
+## Bugs
+
+### Fixed Bugs
+
+- Only one div in the contest section was showing. Used float: left in style.css to fix
+- One div not showing in contest section. Used box-sizing: border-box in style.css to fix.
+
+### Unfixed Bugs
+
+- Most icons not showing on the contest section
