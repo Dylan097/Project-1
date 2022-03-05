@@ -124,10 +124,13 @@ header {
     width: 100%;
     overflow: hidden;
     position: relative;
+    background: url(../images/group-of-painballers.jpeg) no-repeat center center; 
 }
 
-#contest-pic {
-    height: 250px;
-    width: 100%;
-    background: url(../images/group-of-painballers.jpeg) no-repeat center center;      
+.contest div {
+    color: whitesmoke;
+    width: 20%;
+    height: 100%;
+    border: 2px solid white;
+    background-color: rgba(0, 0, 0, .5);
 }
