@@ -199,11 +199,61 @@ header {
 /* For Large to Medium screens less than 1200px wide */
 
 @media screen and (max-width: 1200px) {
-    
+    #form {
+        left: 2%;
+    }
+
+    #cover-text {
+        left: 37%;
+    }
 }
 
 /* For medium screens less than 950px wide */
 
 @media screen and (max-width: 950px) {
+    .contest {
+        height: 900px;
+    }
+
+    .contest div {
+        height: 180px;
+        width: 100%;
+    }
+
+    #cover-text {
+        left: 34%;
+    }
+
+    #about {
+        height: 720px;
+    }
+
+    #who {
+        position: relative;
+        text-align: center;
+        left: 25%;
+    }
+
+    #where {
+        position: relative;
+        text-align: center;
+        right: 25%;
+    }
+
+    #links a {
+        top: -10px;
+    }
+}
+
+/* For smaller devices less than 550px wide */
+
+@media screen and (max-width: 550px) {
     
+    #cover-text {
+        left: 10%;
+    }
+
+    #social {
+        letter-spacing: 20px;
+    }
 }
