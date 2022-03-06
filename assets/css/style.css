@@ -138,3 +138,11 @@ header {
     text-align: center;
     padding: 35px 0 0 10px;
 }
+
+/* Social media links section */
+
+#social {
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 50px;
+}
