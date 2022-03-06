@@ -90,6 +90,7 @@ header {
     left: 40%;
     color: cornflowerblue;
     background-color: rgba(500, 100, 100, .5);
+    border-radius: 5px;
 }
 
 #cover-text p {
@@ -153,4 +154,56 @@ header {
     text-align: right;
     color: black;
     margin-right: 10px;
+}
+
+/* Sign-up form */
+
+#form {
+    color: black;
+    background-color: rgba(245, 245, 220, .4);
+    height: 170px;
+    position: absolute;
+    top: 200px;
+    left: 16%;
+    padding: 5px 0 0 10px;
+    border-radius: 5px;
+}
+
+#sign-up {
+    max-width: 260px;
+}
+
+.text-input {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.text-input:hover {
+    border-color: red;
+}
+
+#submit {
+    background-color: red;
+    color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#submit:hover {
+    background-color: blue;
+    color: red;
+}
+
+/* Media Queries */
+
+/* For Large to Medium screens less than 1200px wide */
+
+@media screen and (max-width: 1200px) {
+    
+}
+
+/* For medium screens less than 950px wide */
+
+@media screen and (max-width: 950px) {
+    
 }
