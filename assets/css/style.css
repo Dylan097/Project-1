@@ -232,12 +232,14 @@ header {
         position: relative;
         text-align: center;
         left: 25%;
+        clear: both;
     }
 
     #where {
         position: relative;
         text-align: center;
         right: 25%;
+        clear: both;
     }
 
     #links a {

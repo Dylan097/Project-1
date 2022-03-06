@@ -33,6 +33,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 - Only one div in the contest section was showing. Used float: left in style.css to fix
 - One div not showing in contest section. Used box-sizing: border-box in style.css to fix.
+- Divs in about us section colliding with eachother after 950px size change. Used clear: both in style.css to fix.
 
 ### Unfixed Bugs
 
