@@ -5,15 +5,17 @@
     margin: 0;
     border: none;
 }
+
 body {
-    font-family: "Architects Daughter", sans-serif;
+    font-family: "Architects Daughter", "sans-serif";
     color: grey;
 }
 
 /* headers */
 
-h1, h2 {
-    font-family: "Syne Mono", sans-serif;
+h1,
+h2 {
+    font-family: "Syne Mono", "sans-serif";
     letter-spacing: 5px;
 }
 
@@ -68,7 +70,7 @@ header {
     position: relative;
 }
 
-#cover-text h2{
+#cover-text h2 {
     font-size: 200%;
 }
 
@@ -85,7 +87,7 @@ header {
     padding: 10px;
 
     position: relative;
-    
+
     bottom: 255px;
     left: 40%;
     color: cornflowerblue;
@@ -94,7 +96,7 @@ header {
 }
 
 #cover-text p {
-    font-family: Caveat, sans-serif;
+    font-family: Caveat, "sans-serif";
     font-size: large;
 }
 
@@ -125,7 +127,7 @@ header {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background: url(../images/group-of-painballers.jpeg) no-repeat center center; 
+    background: url(../images/group-of-painballers.jpeg) no-repeat center center;
 }
 
 .contest div {
@@ -250,7 +252,7 @@ header {
 /* For smaller devices less than 550px wide */
 
 @media screen and (max-width: 550px) {
-    
+
     #cover-text {
         left: 10%;
     }
