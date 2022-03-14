@@ -47,6 +47,12 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This allows the user to contact with any general questions about the event dates, and if they can just attend a couple of sessions instead of all of them.
 
+- __Sign Up Page__
+
+    - The Sign Up Page allows users to signup to the Paintballers Elite group directly from the website, without ever having to contact anyone if they wish to get straight on board.
+
+    - This makes it easier for people to sign up to the group, with just a few little details to add, being first and last name, and their email address.
+
 ## credits
 
 ### contents
