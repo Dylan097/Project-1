@@ -35,6 +35,12 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     ![Contest section](https://github.com/Dylan097/Project_1/main/media/Project_1_contest.png)
 
+- __Footer__
+
+    - The footer contains links to social media websites and YouTube across all 3 pages.
+
+    - This allows the website user to easily access any pages linked to the website.
+
 ## credits
 
 ### contents
