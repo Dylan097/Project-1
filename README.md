@@ -53,6 +53,21 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This makes it easier for people to sign up to the group, with just a few little details to add, being first and last name, and their email address.
 
+## Testing
+
+### Bugs
+
+#### Fixed Bugs
+
+- Only one div in the contest section was showing. Used float: left in style.css to fix
+- One div not showing in contest section. Used box-sizing: border-box in style.css to fix.
+- Divs in about us section colliding with eachother after 950px size change. Used clear: both in style.css to fix.
+- Most icons not showing on the contest section. Changed each broken icon so they show for each div in index.html and contact-us.html.
+
+#### Unfixed Bugs
+
+- None
+
 ## credits
 
 ### contents
@@ -68,16 +83,3 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 - The photo used in the main page is from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
 
 - The photo used in the background for the contest info is from [this webpage](https://www.oakerwoodleisure.co.uk/app/uploads/2021/07/2-1800x750.jpeg)
-
-## Bugs
-
-### Fixed Bugs
-
-- Only one div in the contest section was showing. Used float: left in style.css to fix
-- One div not showing in contest section. Used box-sizing: border-box in style.css to fix.
-- Divs in about us section colliding with eachother after 950px size change. Used clear: both in style.css to fix.
-- Most icons not showing on the contest section. Changed each broken icon so they show for each div in index.html and contact-us.html.
-
-### Unfixed Bugs
-
-- None
