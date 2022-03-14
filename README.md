@@ -41,6 +41,12 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This allows the website user to easily access any pages linked to the website.
 
+- __Contact Us Page__
+
+    - The Contact Us Page allows users to find a telephone number and email address to contact the website admin directly for any information, and to even sign up.
+
+    - This allows the user to contact with any general questions about the event dates, and if they can just attend a couple of sessions instead of all of them.
+
 ## credits
 
 ### contents
