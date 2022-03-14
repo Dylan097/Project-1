@@ -43,6 +43,8 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 - Icons come from [this webpage](https://fontawesome.com/)
 
+- Inspiration for the Contest section came from the Love Running walkthrough project from Code Institute
+
 ### media
 
 - The photo used in the main page is from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
