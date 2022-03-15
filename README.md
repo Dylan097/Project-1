@@ -89,6 +89,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 - One div not showing in contest section. Used box-sizing: border-box in style.css to fix.
 - Divs in about us section colliding with eachother after 950px size change. Used clear: both in style.css to fix.
 - Most icons not showing on the contest section. Changed each broken icon so they show for each div in index.html and contact-us.html.
+- In microsoft edge, sign-up form presented on top of the cover text at 565px or less width. I changed the top from 53% to 250px in the form id for 565px or less width.
 
 #### Unfixed Bugs
 
