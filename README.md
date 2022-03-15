@@ -57,15 +57,15 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 ### HTML testing
 
-    - index.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
+- index.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
 
-    - contact-us.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
+- contact-us.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
 
-    - sign-up.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
+- sign-up.html was tested and came back with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea)
 
 ### CSS testing
 
-    - style.css was tested and came back with no errors using [jigsaw Validator](https://jigsaw.w3.org/css-validator/validator)
+- style.css was tested and came back with no errors using [jigsaw Validator](https://jigsaw.w3.org/css-validator/validator)
 
 ### Bugs
 
