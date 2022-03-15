@@ -96,6 +96,14 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 - Inspiration for the Contest section came from the Love Running walkthrough project from Code Institute
 
+- [This webpage](https://www.delftstack.com/howto/html/html-transparent-hex-code/#:~:text=In%20CSS%2C%20select%20the%20div,hexadecimal%20value%2080%20is%20128.) was used to figure out how to set transparency using hex code.
+
+- Background colours were found using [this color tool](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=f1000c&secondary.color=BA68C8)
+
+- Paintballing locations in Hertfordshire were found using [go ballistic](https://go-ballistic.co.uk/en/index)
+
+- The fonts used in this website were found with [google fonts](https://fonts.google.com/)
+
 ### media
 
 - The photo used in the main page is from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
