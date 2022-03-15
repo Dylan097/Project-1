@@ -9,7 +9,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This feature allows the user to easily navigate throughout the webpage, allowing them to freely get to where they need to without using the "previous page" button.
 
-    ![Nav Bar](https://github.com/Dylan097/Project_1/main/media/Project_1_nav.png)
+    ![Nav Bar](https://github.com/Dylan097/Project_1/main/images/media/nav-bar.png)
 
 - __The Landing Page__
 
@@ -17,7 +17,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - The landing page includes an image as a background, and a very short description of what the website is meant to be for.
 
-    ![Landing Page](https://github.com/Dylan097/Project_1/main/media/Project_1_landing_page.png)
+    ![Landing Page](https://github.com/Dylan097/Project_1/main/images/media/landing-page.png)
 
 - __About Us Section__
 
@@ -25,7 +25,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - About Us let's the user know where the contests and strategies are roughly based, and it explains what sort of thing they can expect from meetups
 
-    ![About Us](https://github.com/Dylan097/Project_1/main/media/Project_1_about_us.png)
+    ![About Us](https://github.com/Dylan097/Project_1/main//images/media/about-us.png)
 
 - __Contest Section__
 
@@ -33,7 +33,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This section let's the user see that there won't be daily painballing, and that there will be a chance to talk to the people that go to the paintballing each week, and get to know each other better.
 
-    ![Contest section](https://github.com/Dylan097/Project_1/main/media/Project_1_contest.png)
+    ![Contest section](https://github.com/Dylan097/Project_1/main/images/media/contest.png)
 
 - __Footer__
 
@@ -41,17 +41,23 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - This allows the website user to easily access any pages linked to the website.
 
+    ![Page Footer](https://github.com/Dylan097/Project_1/main/images/media/footer.png)
+
 - __Contact Us Page__
 
     - The Contact Us Page allows users to find a telephone number and email address to contact the website admin directly for any information, and to even sign up.
 
     - This allows the user to contact with any general questions about the event dates, and if they can just attend a couple of sessions instead of all of them.
 
+    ![Contact Us Page](https://github.com/Dylan097/Project_1/main/images/media/contact-us.png)
+
 - __Sign Up Page__
 
     - The Sign Up Page allows users to signup to the Paintballers Elite group directly from the website, without ever having to contact anyone if they wish to get straight on board.
 
     - This makes it easier for people to sign up to the group, with just a few little details to add, being first and last name, and their email address.
+
+    ![Sign Up Page](https://github.com/Dylan097/Project_1/main/images/media/sign-up.png)
 
 ## Testing
 
