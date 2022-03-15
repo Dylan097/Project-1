@@ -63,6 +63,14 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 ## Testing
 
+- I tested the website using the following browsers: Google Chrome, Microsoft Edge, Safari.
+
+- I can confirm that the website is responsive to all sizes on the mentioned web browsers.
+
+- I confirm that the navigation, sign up, about us, header and contact us are all readable and work as intended.
+
+- I confirm that the sign up form works as intended, with all fields being required, the email section only accepting email addresses and the submit button works.
+
 ### Accessibility testing
 
  - The testing for accessibility was successful, using lighthouse with dev tools in the browser screen
