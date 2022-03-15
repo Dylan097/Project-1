@@ -257,6 +257,10 @@ header {
         left: 10%;
     }
 
+    .contest div {
+        padding-top: 5px
+    }
+
     #social {
         letter-spacing: 20px;
     }
