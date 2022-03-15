@@ -86,6 +86,22 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 - None
 
+## Deployment
+
+- The website was deployed via gitHub pages. The deployment steps I took are as follows:
+
+    - From the gitHub project_1 page, open the settings page
+
+    - Find the gitHub pages section, then click on the link to gitHub pages
+
+    - Once opened, go to source, then select branch: main
+
+    - Once branch: main is selected, click on the save button
+
+    - Once saved, the page refreshes automatically with a link to the webpage
+
+This is the live link - https://dylan097.github.io/Project-1/
+
 ## credits
 
 ### contents
