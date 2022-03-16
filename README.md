@@ -118,7 +118,7 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
     - Once saved, the page refreshes automatically with a link to the webpage
 
-This is the live link - https://dylan097.github.io/Project-1/
+This is the live link - [Paintballers Elite](https://dylan097.github.io/Project-1/)
 
 ## credits
 
