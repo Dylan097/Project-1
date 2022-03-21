@@ -161,6 +161,8 @@ This is the live link - [Paintballers Elite](https://dylan097.github.io/Project-
 
 - The fonts used in this website were found with [google fonts](https://fonts.google.com/)
 
+- The image for the responsive designs came from [Am I Responsive](http://ami.responsivedesign.is/)
+
 ### media
 
 - The photo used in the main page is from [this webpage](https://as1.ftcdn.net/v2/jpg/02/23/35/22/1000_F_223352240_YxbaMMwLbFTOFTds14Zrz0Aalk0epBBD.jpg)
