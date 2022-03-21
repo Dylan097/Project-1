@@ -124,8 +124,6 @@ This is the live link - [Paintballers Elite](https://dylan097.github.io/Project-
 
 ### contents
 
-- Paintball arena locations come from [this webpage](https://go-ballistic.co.uk/en/index)
-
 - Icons come from [this webpage](https://fontawesome.com/)
 
 - Inspiration for the Contest section came from the Love Running walkthrough project from Code Institute
