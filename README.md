@@ -3,6 +3,31 @@ Paintballers Elite is a website gathering paintball lovers from Hertfordshire, E
 
 ![Paintballers Elite Responsive Design](https://github.com/Dylan097/Project-1/blob/main/assets/images/media/responsive-design.png)
 
+## User Stories
+
+### First Time Visitor
+
+- As a first time visitor, I want to be able to understand what the website is for
+- As a first time visitor, I want to be able to navigate quickly and easily to where I need to go
+- As a first time visitor, I want to easily locate the websites social media platforms
+
+### Returning Visitor
+
+- As a returning visitor, I want to find out information on times and locations for any meetups
+- As a returning visitor, I want to be able to see how I can contact someone about the meetups
+- As a returning visitor, I want to be able to signup for any updates on times and locations
+
+### Frequent Visitor
+
+- As a frequent visitor, I want to be able to see if the times and locations have changed
+- As a frequent visitor, I would like to see what activites are on each day
+
+### Author targets
+
+- As the author, I want to make it as easy as possible for people to find the information they're looking for
+- As the author, I would like to give people the option to sign up for any updates on future events
+- As the author, I would like people to have easy access to the websites social media accounts
+
 ## Features
 
 - __Navigation Bar__
